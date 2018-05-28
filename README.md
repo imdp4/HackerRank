@@ -1,2 +1,2 @@
 # HackerRank
-Solutions to all python challenges
+Solutions of python challenges
