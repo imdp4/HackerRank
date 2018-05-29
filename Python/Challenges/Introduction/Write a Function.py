@@ -40,8 +40,7 @@ def is_leap(year):
         leap=False
     elif year%4==0:
         leap=True
-    # Write your logic here
-    
+        
     return leap
     
 year = int(raw_input())
