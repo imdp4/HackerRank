@@ -5,7 +5,7 @@ Input Format:
 The first and only line contains the integer, N.
 
 Constraints
-1<=N<=20
+1 <= N <= 20
 
 Output Format:
 Print N lines, one corresponding to each i.
@@ -26,4 +26,3 @@ if __name__ == '__main__':
     n = int(raw_input())
     for i in range(n):
             print i**2
-            
