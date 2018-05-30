@@ -1,3 +1,4 @@
+"""
 Read an integer N.
 Without using any string methods, try to print the following:
 123....N
@@ -15,6 +16,7 @@ Sample Input 0
 
 Sample Output 0
 123
+"""
 
 #Solution
 from __future__ import print_function
