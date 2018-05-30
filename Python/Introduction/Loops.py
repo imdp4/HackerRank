@@ -1,3 +1,4 @@
+"""
 Task 
 Read an integer N. For all non-negative integers i < N, print i**2. See the sample for details.
 
@@ -19,8 +20,9 @@ Sample Output 0
 4
 9
 16
+"""
 
-Solution:
+#Solution:
 
 if __name__ == '__main__':
     n = int(raw_input())
